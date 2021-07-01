@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hashtagmachinetest/static/css/main.ebe8dbb8.chunk.css",
+    "main.js": "/hashtagmachinetest/static/js/main.77d3d304.chunk.js",
+    "main.js.map": "/hashtagmachinetest/static/js/main.77d3d304.chunk.js.map",
+    "runtime-main.js": "/hashtagmachinetest/static/js/runtime-main.c34923ad.js",
+    "runtime-main.js.map": "/hashtagmachinetest/static/js/runtime-main.c34923ad.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/hashtagmachinetest/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f7e5e0bf.chunk.js": "/hashtagmachinetest/static/js/2.f7e5e0bf.chunk.js",
+    "static/js/2.f7e5e0bf.chunk.js.map": "/hashtagmachinetest/static/js/2.f7e5e0bf.chunk.js.map",
+    "static/js/3.707377a0.chunk.js": "/hashtagmachinetest/static/js/3.707377a0.chunk.js",
+    "static/js/3.707377a0.chunk.js.map": "/hashtagmachinetest/static/js/3.707377a0.chunk.js.map",
+    "index.html": "/hashtagmachinetest/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/hashtagmachinetest/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.ebe8dbb8.chunk.css.map": "/hashtagmachinetest/static/css/main.ebe8dbb8.chunk.css.map",
+    "static/js/2.f7e5e0bf.chunk.js.LICENSE.txt": "/hashtagmachinetest/static/js/2.f7e5e0bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c34923ad.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f7e5e0bf.chunk.js",
+    "static/css/main.ebe8dbb8.chunk.css",
+    "static/js/main.77d3d304.chunk.js"
+  ]
+}
