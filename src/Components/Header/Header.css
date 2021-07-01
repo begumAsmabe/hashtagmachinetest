@@ -1,0 +1,27 @@
+
+  .logo{
+      width:43% ;
+      margin-top: 0%;
+      
+  }
+  .links
+  {
+      margin-top: -2%;
+      display: flex; 
+    
+      
+      
+  }
+  .text
+  {
+      color: white;
+      
+  }
+  .header
+  {
+      height: 3rem;
+      margin: 0 auto;
+      position: relative;
+      display: flex;
+      
+  }

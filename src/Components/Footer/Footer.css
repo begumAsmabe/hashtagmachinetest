@@ -1,0 +1,12 @@
+.footerimg
+{
+height: 1rem;
+}
+.footer
+{
+    height: 3rem;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    margin-top: 3%;
+}
