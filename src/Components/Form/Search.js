@@ -20,7 +20,15 @@ const Search = () => {
                 <div style={{float:"right",textAlign:"center"}}className=" icon">
                 <BiSearch/>
                 </div>
-                </div>
+                                
+                
+              
+                
+                
+                
+               
+                
+                 </div>
                 
    
             </div>
